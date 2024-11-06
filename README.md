@@ -1,4 +1,7 @@
 Sistema de criptografia 
+Obs:
+Esse sistema utiliza o console para criptografar e descriptografar, não tem interface gráfica.
+
 Para criar outras chaves: digite a opção 1 no terminal quando rodar o template.py
 Copie a chave gerada no arquivo .key gerada na pasta keys e cole em 'Digite sua chave usada para criptografia, use sempre a mesma chave: ' no terminal
 Digite um novo dominio ex: blabla.com.br
